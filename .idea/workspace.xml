@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5eb1316-27bb-4a55-af97-4e3e52941d1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a5eb1316-27bb-4a55-af97-4e3e52941d1b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eUwpMEBeuoq9iCG2H4v2VJ0hl2" />
@@ -39,6 +43,7 @@
       <updated>1594389660429</updated>
       <workItem from="1594389662670" duration="1078000" />
       <workItem from="1596965747454" duration="593000" />
+      <workItem from="1596987643493" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="Update V 1.0.0">
       <created>1594390700421</created>
@@ -47,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594390700421</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update.学派 V 1.0.1">
+      <created>1596987666914</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596987666914</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,13 +67,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update V 1.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update V 1.0.0" />
+    <MESSAGE value="Update.学派 V 1.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update.学派 V 1.0.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="39" key="CommitChangelistDialog2" timestamp="1594390700286">
+    <state x="297" y="39" key="CommitChangelistDialog2" timestamp="1596987666689">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="297" y="39" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1594390700286" />
+    <state x="297" y="39" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1596987666689" />
     <state x="580" y="370" key="Github.ShareDialog" timestamp="1594389918146">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -70,10 +83,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="484" y="175" key="Github.UntrackedFilesDialog/0.23.1440.877@0.23.1440.877" timestamp="1594389934314" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1594390702540">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1596987673278">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1594390702540" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1596987673278" />
     <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594389975429">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
